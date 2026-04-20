@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 @theme {
-  --color-glovo-yellow: #FFC244;
-  --color-glovo-green: #00A082;
+  --color-brand-yellow: #FFC244;
+  --color-brand-green: #00A082;
   --color-bg-gray: #F2F4F5;
   --color-ink: #1D1D1D;
   --color-ink-light: #5E5E5E;
@@ -24,7 +24,7 @@
 }
 
 .status-badge {
-  @apply bg-[#E8F7F3] text-glovo-green px-3 py-1 rounded-full text-xs font-semibold border border-glovo-green;
+  @apply bg-[#E8F7F3] text-brand-green px-3 py-1 rounded-full text-xs font-semibold border border-brand-green;
 }
 
 .risk-pill {
@@ -36,5 +36,5 @@
 }
 
 .nav-item-active {
-  @apply bg-glovo-yellow text-ink;
+  @apply bg-brand-yellow text-ink;
 }

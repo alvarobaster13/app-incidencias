@@ -1,6 +1,6 @@
 {
   "name": "Incidencias: Real-time Incident Dashboard",
-  "description": "A dashboard for managing real-time operational incidents and generating daily reports for Glovo operations.",
+  "description": "A dashboard for managing real-time operational incidents and generating daily reports.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
